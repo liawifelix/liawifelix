@@ -11,21 +11,20 @@
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
     <br/>
     <p align="center">
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> 
-        </code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code> 
-        <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code> 
-        <code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"> </code> 
-        <code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"> </code> 
+        <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
+        <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> 
+        <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"> 
+        <img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"> 
     </p>
 </div>
 
